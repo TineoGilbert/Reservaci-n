@@ -3,10 +3,24 @@
 
 # Área de Reservación (Restaurante)
 
-Este proyecto consiste en una Página web de un restaurante, el cual contiene una vía para que el cliente pueda realizar una reservación en dicho restaurante, en donde el cliente suministará sus datos personales, correo electrónico, fecha, hora, y una mesa en específica. Antes de poder realizar todo este proceso el cliente deberá de estar registrado en la página y acceder atravéz de un usuario creado por el mismo, en caso de no poseer una cuenta, la página le proporcionará una formulario de registro. 
+Este proyecto consiste en una Página web de un restaurante, el cual contiene una vía para que el cliente pueda realizar una reservación en dicho restaurante, en donde el cliente suministrará sus datos personales, correo electrónico, fecha, hora, y una mesa en específica. Antes de poder realizar todo este proceso el cliente deberá de estar registrado en la página y acceder atravéz de un usuario creado por el mismo, en caso de no poseer una cuenta, la página le proporcionará una formulario de registro. 
 
 ## Tecnologías Utilizadas
 
 - Laravel
 - BootsTrap
 - Materialize
+
+
+![](public/img/Captura9.png)
+
+![](public/img/Captura8.png)
+
+![](public/img/Captura7.png)
+
+![](public/img/Captura6.png)
+
+![](public/img/Captura5.png)
+
+![](public/img/Captura3.png)
+
