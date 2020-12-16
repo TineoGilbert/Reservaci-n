@@ -1,0 +1,122 @@
+/*Sección Principal de la página*/
+
+.fondo {
+    height: 100vh;
+    background: url(../img/cocina.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  hr{
+    height: 5px;
+  }
+  /*Barra de navegación*/
+  
+  .nav-item:hover {
+    background-color: blue;
+  }
+  
+  .nav-item-i:hover {
+    background-color: #9b59b6;
+  }
+  
+  .nav-item-t:hover {
+    background-color: #3498db;
+  }
+  
+  .nav-item-y:hover {
+    background-color: #c0392b;
+  }
+  
+  /*Sugerencias Página Principal (Pop Pup)*/
+  .modal-header {
+    text-align: center;
+    size: 100px;
+  }
+  .modal-title {
+    color: black;
+    text-align: center;
+  }
+  
+  .col-form-label {
+    color: black;
+  }
+  
+  /*Capa (Mask) Página principal*/
+  
+  .nombre {
+    padding-top: 100px;
+  }
+  
+  .gris {
+    background: rgba(0, 0, 0, 0.199);
+  }
+  
+  .top-nav-collapse {
+    background: rgba(0, 0, 0, 0.776) !important;
+  }
+  
+  /*Área de (Tipos de platos)*/
+  .platos {
+    text-align: center;
+  }
+  
+  /*Área de reservación*/
+  .card-reservacion {
+    background-color: black;
+  }
+  
+  .card-header {
+    text-shadow: #f1c40f;
+    color: #f1c40f;
+    border-color: #f1c40f;
+  }
+  
+  .card-title {
+    color: black;
+  }
+  
+  .card-footer {
+    border-color: #f1c40f;
+    color: #f1c40f;
+  }
+  
+  .card-body {
+    color: cornsilk;
+  }
+  
+  /*Footer*/
+  
+  .pie {
+    background-color: black;
+  }
+  
+  #email {
+    color: yellow;
+    padding-left: 20px;
+    margin-left: 40px;
+    text-align: start;
+  }
+  
+  #phone {
+    color: yellow;
+  }
+  
+  #email:hover {
+    color: yellow;
+  }
+  
+  #reserva:hover {
+    color: yellow;
+  }
+  
+  #somos:hover {
+    background-color: yellow;
+  }
+  
+  /*
+  <!-- Esta página fue creada por Gilbert E. Tineo - 18/08/2020
+  Nota: Está disponible para uso personal y para uso didáctico. En caso de querer usar esta página
+  por favor contactarse al correo: tineogilbert@gmail.com!
+  -->
+  */
