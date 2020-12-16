@@ -8,6 +8,7 @@ Este proyecto consiste en una Página web de un restaurante, el cual contiene un
 ## Tecnologías Utilizadas
 
 - Laravel
+- PHP
 - BootsTrap
 - Materialize
 
